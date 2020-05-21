@@ -6,7 +6,7 @@ El Proyecto Horus consiste en una API REST que permite de forma simple identific
 
 # Cargar el codigo en la TTGO-CAM
 
-A diferencia de la ESP32-Cam la TTGO-Cam ya incluye un conversor USB a TTL al mejor estilo Arduino por lo que no requiere conexionados especiales:
+A diferencia de la ESP32-Cam, la TTGO-Cam ya incluye un conversor USB a TTL al mejor estilo Arduino por lo que no requiere conexionados especiales:
 
 ![Conexion entre TTL y ESP32-Cam](Conexionado.jpg)
 
