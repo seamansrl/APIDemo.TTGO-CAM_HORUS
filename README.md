@@ -4,7 +4,7 @@ Código demo en C de ARDUINO para el consumo de la API de reconocimiento (Proyec
 
 El Proyecto Horus consiste en una API REST que permite de forma simple identificar imagenes via redes neuronales.
 
-# Cargar el codigo en la TTGO-CAM
+# Cargar el código en la TTGO-CAM
 
 A diferencia de la ESP32-Cam, la TTGO-Cam ya incluye un conversor USB a TTL al mejor estilo Arduino por lo que no requiere conexionados especiales:
 
