@@ -14,7 +14,7 @@ La configuración del entorno arduino para la carga sera:
 
 ![Configuracion en entorno Arduino](Config_Arduino.png)
 
-Nota: Se debe instalar las librerias de la pantalla de la TTGO, para ello dentro del entorno de Ardunio se debe ir al menu "Programa >> Incluir Libretía >> Incluir biblioteca .ZIP" para luego seleccionar el archivo "esp8266-oled-ssd1306-master.zip" incluido en este repositor.
+Nota: Se debe instalar las librerias de la pantalla de la TTGO, para ello dentro del entorno de Ardunio se debe ir al menu "Programa >> Incluir Librería >> Incluir biblioteca .ZIP" para luego seleccionar el archivo "esp8266-oled-ssd1306-master.zip" incluido en este repositor.
 
 # Dentro de las funciones de la API podemos encontrar
 
