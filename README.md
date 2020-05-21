@@ -1,21 +1,18 @@
-# PROYECTO HORUS: Demo en Arduino C para ESP32-CAM
+# PROYECTO HORUS: Demo en Arduino C para TTGO-CAM
 
 Código demo en C de ARDUINO para el consumo de la API de reconocimiento (Proyecto Horus)
 
 El Proyecto Horus consiste en una API REST que permite de forma simple identificar imagenes via redes neuronales.
 
-# Cargar el codigo en la ESP32-CAM
+# Cargar el codigo en la TTGO-CAM
 
-Para copiar el codigo a la ESP32-Cam se requiere de un adaptador USB-TTL el cual ira conectado de la siguiente manera:
+A diferencia de la ESP32-Cam la TTGO-Cam ya incluye un conversor USB a TTL al mejor estilo Arduino por lo que no requiere conexionados especiales:
 
 ![Conexion entre TTL y ESP32-Cam](Conexionado.jpg)
 
 La configuración del entorno arduino para la carga sera:
 
 ![Configuracion en entorno Arduino](Config_Arduino.png)
-
-
-Nota: Si hay problemas para subir el codigo a la placa y todo parace corresponder correctamente debera probar invirtiendo el RX y el TX de la placa TTL.
 
 
 # Dentro de las funciones de la API podemos encontrar
