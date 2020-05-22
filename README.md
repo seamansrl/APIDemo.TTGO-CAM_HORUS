@@ -18,8 +18,6 @@ Nota: Se debe instalar las librerias de la pantalla de la TTGO, para ello dentro
 
 # Dentro de las funciones de la API podemos encontrar
 
-El Proyecto Horus consiste en una API REST que permite de forma simple identificar imágenes vía redes neuronales.
-
 - FACE ID
 - OBJECT DETECTION
 - QR DECODER
